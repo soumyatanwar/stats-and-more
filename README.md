@@ -19,3 +19,5 @@ P(D) = Probability of data being observed regardless of whether hypothesis is tr
 Law of total probability (depending on how many hypothesis)
 _Assuming H1, H2,... are mutually exclusive. Only one happens at a time_
 P(D) = P(H1)*P(D/H1) + P(H2)*P(D/H2) + ....
+
+<img width="668" alt="image" src="https://github.com/soumyatanwar/stats-and-more/assets/37302163/d34a7cd9-422b-4857-ae48-30af4cdf7d9c">
