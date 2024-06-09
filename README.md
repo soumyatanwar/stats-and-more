@@ -1,7 +1,7 @@
 # stats-and-more
 Learnings and experiments with statistical modeling
 
-## Cookie Problem (and Coin problem)
+##1. Cookie Problem (and Coin problem)
 How to think about Bayes Theorem
 1. A way to compute likelihood of a hypothesis, given some data (may be easier to compute this way)
 2. A way of updating beliefs, when we see more data
